@@ -14,6 +14,3 @@ http://localhost/dashboard/
 
 Los proyectos estan alojados en  /Applications/XAMPP/xamppfiles/htdocs/
 - PHP +7
-
-
-
