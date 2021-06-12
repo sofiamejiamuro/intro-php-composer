@@ -1,0 +1,17 @@
+{
+    "name": "sofiamejiamuro/example-3",
+    "description": "Ejemplo boilerplate composer",
+    "require": {
+        "nesbot/carbon": "^2.49"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sofiamejiamuro",
+            "email": "sofiamejiamuro@gmail.com"
+        }
+    ]
+}
